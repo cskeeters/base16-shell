@@ -1,3 +1,6 @@
 default: 
     extension: .sh
     output: scripts
+16color: 
+    extension: .sh
+    output: scripts-16color
